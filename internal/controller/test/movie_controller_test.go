@@ -2,10 +2,10 @@ package controller_test
 
 import (
 	"bytes"
-	"cinema/internal/controller"
-	"cinema/internal/model"
-	"cinema/internal/repository"
-	"cinema/internal/service"
+	"cinema-test/internal/controller"
+	"cinema-test/internal/model"
+	"cinema-test/internal/repository"
+	"cinema-test/internal/service"
 	"encoding/json"
 	"net/http"
 	"net/http/httptest"
