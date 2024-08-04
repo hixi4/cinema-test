@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"cinema/internal/model"
-	"cinema/internal/service"
+	"cinema-test/internal/model"
+	"cinema-test/internal/service"
 	"encoding/json"
 	"net/http"
 )
