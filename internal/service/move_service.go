@@ -1,7 +1,7 @@
 package service
 
 import (
-	"cinema/internal/model"
+	"cinema-test/internal/model"
 )
 
 // MovieRepository інтерфейс для доступу до даних фільмів
