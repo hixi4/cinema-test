@@ -1,8 +1,8 @@
 package service_test
 
 import (
-	"cinema/internal/repository"
-	"cinema/internal/service"
+	"cinema-test/internal/repository"
+	"cinema-test/internal/service"
 	"testing"
 )
 
