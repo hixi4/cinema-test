@@ -1,8 +1,8 @@
 package repository_test
 
 import (
-	"cinema/internal/model"
-	"cinema/internal/repository"
+	"cinema-test/internal/model"
+	"cinema-test/internal/repository"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
