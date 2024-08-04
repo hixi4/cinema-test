@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"cinema/internal/model"
+	"cinema-test/internal/model"
 	"errors"
 )
 
