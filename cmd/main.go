@@ -1,9 +1,9 @@
 package main
 
 import (
-	"cinema/internal/controller"
-	"cinema/internal/repository"
-	"cinema/internal/service"
+	"cinema-test/internal/controller"
+	"cinema-test/internal/repository"
+	"cinema-test/internal/service"
 	"fmt"
 	"net/http"
 	"os"
