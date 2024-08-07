@@ -1,4 +1,4 @@
-module cinema
+module cinema-test
 
 go 1.16
 
